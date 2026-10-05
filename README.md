@@ -12,7 +12,6 @@ help desk and IT support roles.
 | Lab | Focus | Tools |
 |---|---|---|
 | [01: Investigating a DNS Query Timeout](labs/01-dns-query-timeout.md) | Separating DNS query failures from connectivity problems | ping, nslookup, curl, dig |
-
 | [02: Troubleshooting File Access Permissions](labs/02-file-access-permissions.md) | File read access and directory traversal | chmod, cat, ls |
 
 ## Troubleshooting Approach
