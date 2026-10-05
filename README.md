@@ -13,6 +13,8 @@ help desk and IT support roles.
 |---|---|---|
 | [01: Investigating a DNS Query Timeout](labs/01-dns-query-timeout.md) | Separating DNS query failures from connectivity problems | ping, nslookup, curl, dig |
 
+| [02: Troubleshooting File Access Permissions](labs/02-file-access-permissions.md) | File read access and directory traversal | chmod, cat, ls |
+
 ## Troubleshooting Approach
 
 1. Identify the symptoms and scope.
@@ -31,4 +33,3 @@ help desk and IT support roles.
 
 These are educational exercises, not production support incidents.
 Each write-up distinguishes observed results from assumptions.
-Simulated faults and any configuration changes are explicitly documented.
